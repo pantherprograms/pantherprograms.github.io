@@ -5,13 +5,12 @@
     border: 0;
     border-radius: 0;
     margin-bottom: 0;
-    font-family: Montserrat, sans-serif;
+    font-family: Dosis, sans-serif;
 }
 .navbar-default .navbar-brand {
     color: #ffffff;
     font-size: 22px;
     text-decoration: bold;
-    font-family: Dosis, sans-serif;
 }
 .navbar-default .navbar-nav > li > a {
     color: #ffffff;
