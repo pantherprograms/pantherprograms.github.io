@@ -3,7 +3,6 @@ body {
 }
 .navbar-default {
     padding-top: 15px;
-    padding-bottom: 15px;
     background-color: #015cc2;
     border: 0;
     border-radius: 0;
@@ -27,7 +26,7 @@ body {
     padding: 100px 25px;
 }
 .container-fluid {
-    padding: 60px 50px;
+    padding: 30px 50px;
 }
 .container-fluid > p {
     font-size: 18px;
