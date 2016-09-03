@@ -1,13 +1,22 @@
 .navbar-default {
-    background-color: #000099;
-    border: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #002e83;
+    border: 0;
     border-radius: 0;
+    margin-bottom: 0;
+    font-family: Montserrat, sans-serif;
 }
 .navbar-default .navbar-brand {
     color: #ffffff;
     font-size: 22px;
+    text-decoration: bold;
+    font-family: Dosis, sans-serif;
 }
 .navbar-default .navbar-nav > li > a {
     color: #ffffff;
-    font-size: 18px;
+    font-size: 16px;
+}
+.brackets {
+    font-size: 30px;
 }
