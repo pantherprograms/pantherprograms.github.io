@@ -37,6 +37,7 @@ p {
 }
 .darkblue-color {
     margin-top: 20px;
+    margin-bottom: 0;
     background-color: #013c7f;
     color: #ffffff;
 }
