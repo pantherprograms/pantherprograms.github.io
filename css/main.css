@@ -44,17 +44,22 @@ p {
     background-color: #015cc2;
 }
 .darkblue-color {
-    margin-top: 20px;
+    margin-top: 0px;
     margin-bottom: 0;
     background-color: #013c7f;
     color: #ffffff;
 }
 #about {
     margin-top: 75px;
-    margin-bottom: 100px;
+    padding-bottom: 100px;
 }
 #brackets {
     margin-top: 30px;
     margin-left: auto;
     margin-right: auto;
+}
+.goal-color {
+    background-color: #efefef;
+    padding-top: 75px;
+    padding-bottom: 100px;
 }
