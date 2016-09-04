@@ -16,6 +16,14 @@ p {
     font-size: 20px;
     font-family: Dosis, sans-serif;
 }
+.navbar-nav li a:hover, .navbar-nav li.active a {
+    color: #015cc2 !important;
+    background-color: #ffffff !important;
+}
+.navbar-default .navbar-toggle {
+    border-color: transparent;
+    color: #ffffff !important;
+}
 .jumbotron {
     color: #ffffff;
     font-family: Dosis, sans-serif;
