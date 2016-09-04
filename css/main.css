@@ -42,6 +42,11 @@ p {
     color: #ffffff;
 }
 #about {
-    margin-top: 100px;
+    margin-top: 75px;
     margin-bottom: 100px;
+}
+#brackets {
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
 }
