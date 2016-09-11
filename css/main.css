@@ -39,19 +39,20 @@ p {
     .col-sm-4 {
         text-align: center;
     }
+    #email {
+        padding-bottom: 30px;
+    }
 }
 .default-color {
     background-color: #015cc2;
 }
 .darkblue-color {
-    margin-top: 0px;
+    margin-top: 0;
     margin-bottom: 0;
+    padding-top: 25px;
+    padding-bottom: 25px;
     background-color: #013c7f;
     color: #ffffff;
-}
-#about {
-    margin-top: 75px;
-    padding-bottom: 100px;
 }
 .image {
     margin-top: 30px;
@@ -60,6 +61,23 @@ p {
 }
 .goal-color {
     background-color: #efefef;
+}
+.padding {
     padding-top: 75px;
-    padding-bottom: 100px;
+    padding-bottom: 75px;
+}
+.contact {
+    padding-bottom: 20px;
+}
+.footer {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    color: white;
+}
+
+#footertext {
+float: right;
+padding-top: 10px;
+padding-right: 10px;
 }
